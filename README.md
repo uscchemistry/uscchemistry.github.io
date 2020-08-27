@@ -1,1 +1,1 @@
-# chem-newsite
+# USC Dornsife Department of Chemistry
