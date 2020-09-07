@@ -6,7 +6,11 @@
 }
 
 .navBack {
-  background-image: url();
+  background-image: url(https://uscchemistry.github.io/docs/google-calendar/left-arrow.jpg);
+}
+
+.navForward {
+  background-image: url(https://uscchemistry.github.io/docs/google-calendar/right-arrow.jpg);
 }
 
 /*today button*/
