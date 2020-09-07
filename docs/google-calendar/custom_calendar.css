@@ -12,7 +12,7 @@ white-space:normal !important;
   font-weight: 500;
   color:#FFCC00;
   font-size:18px;
-  height:24px;
+  height:28px;
   border:0px;
 }
 
@@ -20,6 +20,11 @@ white-space:normal !important;
 .mv-daynames-table {
   color:magenta;
   background-color:#990000;
+  height:28px;
+}
+
+.mv-event-container {
+  top:28px;
 }
 
 /*controls the background of each of the cells*/
@@ -79,7 +84,7 @@ white-space:normal !important;
 /*
 /*applied to the cell below todays; when default this has a border at the top which matches the border surrounding the current day*/
 .st-dtitle-down {
-  border-top:1px solid #990000; 
+  border-top:2px solid #990000; 
 }
 */
 
@@ -91,6 +96,19 @@ white-space:normal !important;
 
 /*event text color*/
 ca-evp1 {
+  color:#000000;
+}
+/*event text color*/
+te-s {
+  font-family: National;
+  font-weight: 300;
+  font-size:14px;
+  color:#000000;
+}
+te-t {
+  font-family: National;
+  font-weight: 500;
+  font-size:14px;
   color:#000000;
 }
 
