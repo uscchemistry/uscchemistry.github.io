@@ -152,9 +152,9 @@ white-space:normal !important;
   border:none;
 }
 
-.st-dtitle span {
+span.st-dtitle {
   padding-top:10px;
-  padding-right:5px;
+  padding-right:10px;
 }
 
 .st-dtitle-today {
