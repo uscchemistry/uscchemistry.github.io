@@ -143,17 +143,17 @@ te {
 }
 
 /*event text color*/
-te-s {
+span.te-s {
   font-family: National;
   font-weight: 300;
   font-size:14px;
   color:#000000;
 }
-te-t {
+span.te-t {
   font-family: National;
   font-weight: 500;
   font-size:14px;
-  color:#000000;
+  color:magenta;
 }
 
 
