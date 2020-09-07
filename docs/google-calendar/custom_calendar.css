@@ -30,18 +30,17 @@
   background-color:#FFCC00;
   border:1px solid #990000;
   padding: 5px;
-  margin-left:5px;
+  margin-left:6px;
 }
 
 #calendarTabs1 {
-  padding-right:5px;
+  padding-right:6px;
 }
 
 /*week/month/agenda button*/
 .ui-rtsr-unselected {
   background-color:#CCCCCC;
   color:#000000;
-  border-radius: 0px;
 }
 
 .ui-rtsr-selected {
@@ -72,6 +71,28 @@
   font-size:18px;
 }
 
+.wk-scrolltimedevents {
+  border-top: 2px solid #990000;
+  border-bottom: 2px solid #990000;
+  font-size:18px;
+}
+.tg-col {
+  border-left:#777777;
+}
+
+.tg-times-pri, .tg-times-sec {
+  background-color:#CCCCCC;
+  color:#000000;
+}
+
+/*now image*/
+.tg-nowptr {
+  background-image: url(//calendar.google.com/googlecalendar/images/combined_v22.png);
+}
+
+tg-hourmarker tg-nowmarker {
+  border-top: 2px solid #990000;
+}
 
 /*month styling*/
 	
@@ -93,19 +114,6 @@ white-space:normal !important;
   border:0px;
 }
 	
-.wk-scrolltimedevents {
-  border-top: 2px solid #990000;
-  border-bottom: 2px solid #990000;
-}
-.tg-col {
-  border-left:#777777;
-}
-
-.tg-times-pri, .tg-times-sec {
-  background-color:#CCCCCC;
-  color:#000000;
-}
-
 /*controls the cell that each name of each day sits*/
 .mv-daynames-table {
   background-color:#990000;
