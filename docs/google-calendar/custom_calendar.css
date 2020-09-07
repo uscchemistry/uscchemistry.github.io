@@ -5,9 +5,13 @@
   font-size:14px;
 }
 
+.navBack {
+  background-image: url();
+}
+
 /*today button*/
 .today-button {
-  border-radius: 12px;
+  border-radius: 4px;
   color:#990000;
   background-color:#FFCC00;
   border:1px solid #990000;
@@ -56,6 +60,7 @@ white-space:normal !important;
 
 .mv-event-container {
   top:28px;
+  border:0px;
 }
 
 /*controls the background of each of the cells*/
