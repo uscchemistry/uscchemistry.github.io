@@ -2,7 +2,7 @@
   font-family: National;
   font-weight: 300;
   color:#000000;
-  font-size:18px;
+  font-size:14px;
 }
 
 /*today button*/
@@ -11,7 +11,7 @@
   color:#990000;
   background-color:#FFCC00;
   border:1px solid #990000;
-  padding: 10px;
+  padding: 5px;
 }
 
 /*week/month/agenda button*/
@@ -26,7 +26,7 @@
 }
 
 .ui-rtsr-name {
-  padding:10px;
+  padding:5px;
 }
 	
 .dp-cur, .chip dt, .te, .te-t, .te-rev-s, .rb-n, .rb-i, .agenda, .event-title{
