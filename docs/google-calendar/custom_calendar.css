@@ -45,6 +45,27 @@
 .ui-rtsr-name {
   padding:5px;
 }
+
+/*week styling*/
+.wk-today {
+  border: 1px solid #FFCC00;
+  background-color:#FFCC00;
+  color:#990000;
+  font-family: National;
+  font-weight: 500;
+  color:#FFCC00;
+  font-size:18px;
+}
+
+.calendar-container {
+  font-family: National;
+  font-weight: 300;
+  color:#000000;
+  font-size:18px;
+}
+
+
+/*month styling*/
 	
 .dp-cur, .chip dt, .te, .te-t, .te-rev-s, .rb-n, .rb-i, .agenda, .event-title{
 white-space:normal !important;
@@ -62,6 +83,19 @@ white-space:normal !important;
   font-size:18px;
   height:28px;
   border:0px;
+}
+	
+.wk-scrolltimedevents {
+  border-top: 2px solid #990000;
+  border-bottom: 2px solid #990000;
+}
+.tg-col {
+  border-left:#777777;
+}
+
+.tg-times-pri, .tg-times-sec {
+  background-color:#CCCCCC;
+  color:#000000;
 }
 
 /*controls the cell that each name of each day sits*/
