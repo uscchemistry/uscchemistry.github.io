@@ -1,4 +1,4 @@
-$your_google_calendar="https://www.google.com/calendar/embed?src=usa__en@holiday.calendar.google.com&gsessionid=OK";
+$your_google_calendar="https://uscchemistry.github.io/docs/google-calendar/";
 $url= parse_url($your_google_calendar);
 $google_domain = $url['scheme'].'://'.$url['host'].dirname($url['path']).'/';
 // Load and parse Google's raw calendar
