@@ -1,3 +1,19 @@
+.nav-table {
+  font-family: National;
+  font-weight: 300;
+  color:#000000;
+  font-size:18px;
+}
+
+.today-button {
+  border-radius: 12px;
+  color:#990000;
+  background-color:#FFCC00;
+  border:1px solid #990000;
+  padding: 10px;
+}
+
+
 .dp-cur, .chip dt, .te, .te-t, .te-rev-s, .rb-n, .rb-i, .agenda, .event-title{
 white-space:normal !important;
 }
@@ -83,7 +99,7 @@ white-space:normal !important;
 .st-dtitle-nonmonth {
   font-family: National;
   font-weight: 300;
-  color:#CCCCCC;
+  color:#777777;
 }
 
 /*
