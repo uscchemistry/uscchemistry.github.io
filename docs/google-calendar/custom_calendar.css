@@ -1,9 +1,62 @@
 .dp-cur, .chip dt, .te, .te-t, .te-rev-s, .rb-n, .rb-i, .agenda, .event-title{
 white-space:normal !important;
 }
+/*overall border/background color*/
 .view-cap, .view-container-border{
-  background-color:magenta;
+  background-color:#FFFFFF;
 }
-.st-bg { background:black; }
-.st-bg-today { background:yellow; border-left:1px solid yellow; border-right:1px solid yellow; }
-.st-dtitle { background:white; }
+
+/*names of the days at the top of the Calendar*/
+.mv-dayname {
+  font-family: National;
+  font-weight: 300;
+  color:#000000;
+}
+
+/*controls the cell that each name of each day sits*/
+.mv-daynames-table {
+  color:magenta;
+}
+
+/*controls the background of each of the cells*/
+.st-bg { 
+  background:#FFFFFF;
+}
+.st-bg-today {
+  background:#FFCC00; 
+  border-left:1px solid #990000; 
+  border-right:1px solid #990000; 
+}
+.st-bg-next {
+  background:#CCCCCC;
+}
+
+/*control the display of the dates of the standard, current day, and the next day, respectively*/
+.st-dtitle {
+  background:white;
+  font-family: National;
+  font-weight: 300;
+  color:#000000;
+}
+
+.st-dtitle-today {
+  font-family: National;
+  font-weight: 300;
+  color:#990000;
+}
+
+.st-dtitle-next {
+  font-family: National;
+  font-weight: 300;
+  color:#000000;
+}
+
+/*controls the display of the text for dates in a new month that are not present in the current month*/
+.st-dtitle-nonmonth {
+  color:green;
+}
+
+/*applied to the cell below todays; when default this has a border at the top which matches the border surrounding the current day*/
+.st-dtitle-down {
+  border-top:1px solid #990000; 
+}
