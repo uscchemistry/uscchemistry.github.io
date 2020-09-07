@@ -108,7 +108,6 @@ white-space:normal !important;
 
 /*controls the cell that each name of each day sits*/
 .mv-daynames-table {
-  color:magenta;
   background-color:#990000;
   height:28px;
 }
@@ -206,14 +205,14 @@ te {
 span.te-s {
   font-family: National;
   font-weight: 300;
-  font-size:14px;
+  font-size:18px;
   color:#000000;
 }
 span.te-t {
   font-family: National;
   font-weight: 500;
-  font-size:14px;
-  color:magenta;
+  font-size:18px;
+  color:#990000;
 }
 
 @font-face { 
