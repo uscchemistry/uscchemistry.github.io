@@ -7,10 +7,16 @@
 
 .navBack {
   background-image: url(https://uscchemistry.github.io/docs/google-calendar/left-arrow.jpg);
+  height:27px;
 }
 
 .navForward {
   background-image: url(https://uscchemistry.github.io/docs/google-calendar/right-arrow.jpg);
+  height:27px;
+}
+
+.navbutton {
+  height:27px;
 }
 
 /*today button*/
@@ -20,7 +26,7 @@
   background-color:#FFCC00;
   border:1px solid #990000;
   padding: 5px;
-  margin-left:20px;
+  margin-left:10px;
 }
 
 /*week/month/agenda button*/
