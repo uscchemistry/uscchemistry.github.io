@@ -9,13 +9,15 @@ white-space:normal !important;
 /*names of the days at the top of the Calendar*/
 .mv-dayname {
   font-family: National;
-  font-weight: 300;
-  color:#000000;
+  font-weight: 500;
+  color:#FFCC00;
+  font-size:18px;
 }
 
 /*controls the cell that each name of each day sits*/
 .mv-daynames-table {
   color:magenta;
+  background-color:#990000;
 }
 
 /*controls the background of each of the cells*/
@@ -41,8 +43,9 @@ white-space:normal !important;
 
 .st-dtitle-today {
   font-family: National;
-  font-weight: 300;
+  font-weight: 500;
   color:#990000;
+  background:#FFCC00; 
 }
 
 .st-dtitle-next {
@@ -53,10 +56,90 @@ white-space:normal !important;
 
 /*controls the display of the text for dates in a new month that are not present in the current month*/
 .st-dtitle-nonmonth {
-  color:green;
+  font-family: National;
+  font-weight: 300;
+  color:#CCCCCC;
 }
 
 /*applied to the cell below todays; when default this has a border at the top which matches the border surrounding the current day*/
 .st-dtitle-down {
   border-top:1px solid #990000; 
+}
+
+.st-c-pos {
+  font-family: National;
+  font-weight: 300;
+  color:#000000;
+}
+
+
+
+
+
+body, body.serif, body.sansserif {
+   font-family: National;
+}
+
+body.serif, .serif p, .serif small, .serif address, .serif h1, .serif h2, .serif h3, .serif h4, .serif h5, .serif h6, .serif input, .serif textarea {
+   font-family: National;
+}
+
+p, .serif p, .sansserif p {
+   font-family: National;
+}
+
+p.intro, .intro p {
+   font-family: National;
+}
+
+h1, .intro p {
+   font-family: National;
+}
+
+.serif small, .sansserif small, small, .sansserif address, .sansserif address, address {
+   font-family: National;
+}
+
+@font-face { 
+	font-family: 'National'; 
+	src: url('https://www.usc.edu/assets/fonts/NationalWeb-Light.eot'); 
+	src: local(':)'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Light.woff') format('woff'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Light.ttf') format('truetype'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Light.svg') format('svg'); 
+	font-weight: 200; 
+	font-style: normal; 
+}
+
+@font-face { 
+	font-family: 'National'; 
+	src: url('https://www.usc.edu/assets/fonts/NationalWeb-Regular.eot'); 
+	src: local(':)'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Regular.woff') format('woff'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Regular.ttf') format('truetype'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Regular.svg') format('svg'); 
+	font-weight: 500; 
+	font-style: normal; 
+}
+
+@font-face { 
+	font-family: 'National'; 
+	src: url('https://www.usc.edu/assets/fonts/NationalWeb-Semibold.eot'); 
+	src: local(':)'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Semibold.woff') format('woff'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Semibold.ttf') format('truetype'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Semibold.svg') format('svg'); 
+	font-weight: 700; 
+	font-style: normal; 
+}
+
+@font-face { 
+	font-family: 'National'; 
+	src: url('https://www.usc.edu/assets/fonts/NationalWeb-Bold.eot'); 
+	src: local(':)'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Bold.woff') format('woff'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Bold.ttf') format('truetype'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Bold.svg') format('svg'); 
+	font-weight: 800; 
+	font-style: normal; 
 }
