@@ -8,11 +8,15 @@
 .navBack {
   background-image: url(https://uscchemistry.github.io/docs/google-calendar/left-arrow.jpg);
   height:27px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
 }
 
 .navForward {
   background-image: url(https://uscchemistry.github.io/docs/google-calendar/right-arrow.jpg);
   height:27px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
 }
 
 .navbutton {
