@@ -5,6 +5,7 @@
   font-size:18px;
 }
 
+/*today button*/
 .today-button {
   border-radius: 12px;
   color:#990000;
@@ -13,7 +14,21 @@
   padding: 10px;
 }
 
+/*week/month/agenda button*/
+.ui-rtsr-unselected {
+  background-color:#CCCCCC;
+  color:#000000;
+}
 
+.ui-rtsr-selected {
+  background-color:#CCCCCC;
+  color:#000000;
+}
+
+.ui-rtsr-name {
+  padding:10px;
+}
+	
 .dp-cur, .chip dt, .te, .te-t, .te-rev-s, .rb-n, .rb-i, .agenda, .event-title{
 white-space:normal !important;
 }
