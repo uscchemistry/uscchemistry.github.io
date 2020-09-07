@@ -11,22 +11,25 @@
 
 /*today button*/
 .today-button {
-  border-radius: 4px;
+  border-radius: 0px;
   color:#990000;
   background-color:#FFCC00;
   border:1px solid #990000;
   padding: 5px;
+  margin-left:20px;
 }
 
 /*week/month/agenda button*/
 .ui-rtsr-unselected {
   background-color:#CCCCCC;
   color:#000000;
+  border-radius: 0px;
 }
 
 .ui-rtsr-selected {
   background-color:#CCCCCC;
   color:#000000;
+  border-radius: 0px;
 }
 
 .ui-rtsr-name {
@@ -159,32 +162,6 @@ span.te-t {
   font-weight: 500;
   font-size:14px;
   color:magenta;
-}
-
-
-
-body, body.serif, body.sansserif {
-   font-family: National;
-}
-
-body.serif, .serif p, .serif small, .serif address, .serif h1, .serif h2, .serif h3, .serif h4, .serif h5, .serif h6, .serif input, .serif textarea {
-   font-family: National;
-}
-
-p, .serif p, .sansserif p {
-   font-family: National;
-}
-
-p.intro, .intro p {
-   font-family: National;
-}
-
-h1, .intro p {
-   font-family: National;
-}
-
-.serif small, .sansserif small, small, .sansserif address, .sansserif address, address {
-   font-family: National;
 }
 
 @font-face { 
