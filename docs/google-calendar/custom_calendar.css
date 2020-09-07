@@ -26,7 +26,11 @@
   background-color:#FFCC00;
   border:1px solid #990000;
   padding: 5px;
-  margin-left:10px;
+  margin-left:5px;
+}
+
+#calendarTabs1 {
+  padding-right:5px;
 }
 
 /*week/month/agenda button*/
