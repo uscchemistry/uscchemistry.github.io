@@ -25,12 +25,14 @@ white-space:normal !important;
 /*controls the background of each of the cells*/
 .st-bg { 
   background:#FFFFFF;
+  border-left:none;
 }
+
 .st-bg-today {
   background:#FFCC00;
-  border-bottom:1px solid #990000; 
-  border-left:1px solid #990000; 
-  border-right:1px solid #990000; 
+  border-bottom:2px solid #990000; 
+  border-left:2px solid #990000; 
+  border-right:2px solid #990000; 
   border-top:0px;
 }
 .st-bg-next {
@@ -43,23 +45,28 @@ white-space:normal !important;
   font-family: National;
   font-weight: 300;
   color:#000000;
+  font-size:18px;
+  border:none;
 }
 
 .st-dtitle-today {
   font-family: National;
   font-weight: 500;
+  font-size:18px;
   color:#990000;
   background:#FFCC00;
   border-bottom:0px;
-  border-top:1px solid #990000;
-  border-left:1px solid #990000; 
-  border-right:1px solid #990000; 
+  border-top:2px solid #990000;
+  border-left:2px solid #990000; 
+  border-right:2px solid #990000; 
 }
 
 .st-dtitle-next {
   font-family: National;
   font-weight: 300;
+  font-size:18px;
   color:#000000;
+  background:#CCCCCC;
 }
 
 /*controls the display of the text for dates in a new month that are not present in the current month*/
