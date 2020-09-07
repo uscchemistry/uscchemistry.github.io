@@ -1,4 +1,4 @@
-$your_google_calendar="https://uscchemistry.github.io/docs/google-calendar/";
+$your_google_calendar="https://uscchemistry.github.io/docs/google-calendar/index.html";
 $url= parse_url($your_google_calendar);
 $google_domain = $url['scheme'].'://'.$url['host'].dirname($url['path']).'/';
 // Load and parse Google's raw calendar
