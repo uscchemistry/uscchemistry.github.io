@@ -98,6 +98,14 @@ white-space:normal !important;
 ca-evp1 {
   color:#000000;
 }
+
+te {
+  font-family: National;
+  font-weight: 300;
+  font-size:14px;
+  color:#000000;
+}
+
 /*event text color*/
 te-s {
   font-family: National;
