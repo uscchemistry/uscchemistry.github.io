@@ -97,6 +97,10 @@ st-grid {
   display:none;
 }
 
+st-bg-all {
+  height:0px;
+}
+
 .calendar-container {
   font-family: National;
   font-weight: 300;
