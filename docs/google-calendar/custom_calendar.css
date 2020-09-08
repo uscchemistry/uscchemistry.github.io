@@ -1,3 +1,12 @@
+.cbrd {
+  background-color:#777777 !important;
+  border-color:#000000; !important;
+}
+
+dt.cbrd {
+  background-color:#CCCCCC !important;
+}
+
 .nav-table {
   font-family: National;
   font-weight: 300;
