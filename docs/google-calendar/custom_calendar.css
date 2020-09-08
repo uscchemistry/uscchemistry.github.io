@@ -1,29 +1,17 @@
-.date-label {
-  background-color:#CCCCCC;
-  color:#000000;
-}
-
-.underflow-top {
-  color:#999999;
-}
-
-.underflow-top a {
+.agenda .date-label {
+  background:#CCCCCC;
   color:#990000;
 }
 
-.underflow-top a:hover {
-  color:#FFCC00;
+.agenda .underflow-bot, .agenda .underflow-top {
+  color:#777777;
 }
 
-.underflow-bottom {
-  color:#999999;
-}
-
-.underflow-bottom a {
+.agenda-more a {
   color:#990000;
 }
 
-.underflow-bottom a:hover {
+.agenda-more a:hover {
   color:#FFCC00;
 }
 
