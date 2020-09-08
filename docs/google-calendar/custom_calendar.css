@@ -92,6 +92,10 @@ st-grid {
   display:none;
 }
 
+.wk-allday {
+  height:0px;
+}
+
 .calendar-container {
   font-family: National;
   font-weight: 300;
@@ -118,7 +122,7 @@ st-grid {
   height:0px;
 }
 
-wk-webcontent-td {
+.wk-webcontent-td {
   height:0px;
 }
 
