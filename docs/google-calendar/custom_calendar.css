@@ -140,6 +140,7 @@ dl.cbrd dt {
   font-weight: 300;
   color:#000000;
   font-size:18px;
+  border-bottom:2px solid #990000;
 }
 
 .wk-scrolltimedevents {
