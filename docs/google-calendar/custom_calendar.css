@@ -70,7 +70,7 @@ dl.cbrd dt {
 }
 
 .wk-dayname {
-  border: 2px solid #CCCCCC;
+  border: 0px;
   background-color:#CCCCCC;
   color:#000000;
   font-family: National;
