@@ -82,6 +82,10 @@
   height:0px;
 }
 
+st-grid {
+  display:none;
+}
+
 .calendar-container {
   font-family: National;
   font-weight: 300;
