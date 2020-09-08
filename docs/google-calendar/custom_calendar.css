@@ -155,7 +155,7 @@ dl.cbrd dt {
 .tg-times-pri, .tg-times-sec {
   background-color:#CCCCCC;
   color:#000000;
-  width:50px;
+  width:80px;
 }
 
 .tg-time-pri {
@@ -367,13 +367,14 @@ te {
 span.te-s {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 300;
-  font-size:12px;
+  font-size:14px;
   color:#000000;
 }
+
 span.te-t {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 500;
-  font-size:12px;
+  font-size:14px;
   color:#990000;
 }
 
