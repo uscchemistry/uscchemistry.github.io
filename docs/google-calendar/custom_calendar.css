@@ -68,6 +68,8 @@
   font-family: National;
   font-weight: 300;
   font-size:18px;
+  padding-top:5px;
+  padding-bottom:5px;
 }
 
 .wk-today {
@@ -116,6 +118,7 @@ st-grid {
 .tg-times-pri, .tg-times-sec {
   background-color:#CCCCCC;
   color:#000000;
+  padding:5px;
 }
 
 .wk-webcontent {
