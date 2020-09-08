@@ -54,16 +54,6 @@
 }
 
 /*week styling*/
-.wk-today {
-  border: 2px solid #990000;
-  border-bottom:0px;
-  background-color:#FFCC00;
-  color:#990000;
-  font-family: National;
-  font-weight: 500;
-  font-size:18px;
-}
-
 .wk-dayname {
   border: none;
   border-bottom:0px;
@@ -74,7 +64,21 @@
   font-size:18px;
 }
 
-.st-s .st-c {
+.wk-today {
+  border: 2px solid #990000;
+  border-bottom:0px;
+  background-color:#FFCC00;
+  color:#990000;
+  font-family: National;
+  font-weight: 500;
+  font-size:18px;
+}
+
+.st-c {
+  height:0px;
+}
+
+.st-s {
   height:0px;
 }
 
@@ -90,6 +94,7 @@
   border-bottom: 2px solid #990000;
   font-size:16px;
 }
+
 .tg-col {
   border-left:#777777;
 }
@@ -118,6 +123,7 @@ tg-hourmarker {
 
 table {
   border-color:magenta;
+}
 
 /*month styling*/
 	
