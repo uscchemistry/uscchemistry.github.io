@@ -54,6 +54,12 @@
 }
 
 /*week styling*/
+
+.wk-weektop {
+  background-color:#FFFFFF;
+}
+
+
 .wk-dayname {
   border: none;
   border-bottom:0px;
