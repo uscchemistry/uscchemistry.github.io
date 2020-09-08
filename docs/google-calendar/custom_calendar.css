@@ -98,7 +98,7 @@ dl.cbrd dt {
   height:0px;
 }
 
-st-grid {
+.st-grid {
   display:none;
 }
 
@@ -106,7 +106,7 @@ st-grid {
   display:none;
 }
 
-st-bg-all {
+.st-bg-all {
   height:0px;
 }
 
@@ -132,7 +132,7 @@ st-bg-all {
   color:#000000;
 }
 
-tg-time-pri {
+.tg-time-pri {
   padding:5px;
 }
 
@@ -149,15 +149,15 @@ tg-time-pri {
   background-image: url(//calendar.google.com/googlecalendar/images/combined_v22.png);
 }
 
-tg-nowmarker {
+.tg-nowmarker {
   border-top: 2px solid #990000;
 }
 
-tg-hourmarker {
+.tg-hourmarker {
   border-top: 2px solid #990000;
 }
 
-table {
+.table {
   border-color:magenta;
 }
 
@@ -216,7 +216,7 @@ table {
   background-color:#777777;
 }
 
-dp-dayh {
+.dp-dayh {
   color:#990000;
   background-color:#FFFFFF;
   font-weight:bold;
