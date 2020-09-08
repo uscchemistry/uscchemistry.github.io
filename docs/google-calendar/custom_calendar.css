@@ -180,6 +180,11 @@ date-picker-off:hover {
   color:#FFFFFF;
 }
 
+.dp-weekend-selected {
+  color:#000000;
+  background-color:#FFFFFF;
+}
+
 /*month styling*/
 	
 .dp-cur, .chip dt, .te, .te-t, .te-rev-s, .rb-n, .rb-i, .agenda, .event-title{
