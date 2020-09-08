@@ -108,6 +108,10 @@
   height:0px;
 }
 
+wk-webcontent-td {
+  height:0px;
+}
+
 /*now image*/
 .tg-nowptr {
   background-image: url(//calendar.google.com/googlecalendar/images/combined_v22.png);
