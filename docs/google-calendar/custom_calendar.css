@@ -90,7 +90,11 @@
   background-image: url(//calendar.google.com/googlecalendar/images/combined_v22.png);
 }
 
-tg-hourmarker tg-nowmarker {
+tg-nowmarker {
+  border-top: 2px solid #990000;
+}
+
+tg-hourmarker {
   border-top: 2px solid #990000;
 }
 
