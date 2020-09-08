@@ -121,7 +121,10 @@ st-bg-all {
 .tg-times-pri, .tg-times-sec {
   background-color:#CCCCCC;
   color:#000000;
-  margin:5px;
+}
+
+tg-time-pri {
+  padding:5px;
 }
 
 .wk-webcontent {
