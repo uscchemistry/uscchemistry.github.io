@@ -7,12 +7,24 @@
   color:#777777;
 }
 
-.agenda-more a {
+.agenda-more {
   color:#990000;
 }
 
-.agenda-more a:hover {
+.agenda-more:hover {
   color:#FFCC00;
+}
+
+.event-title {
+  color:#000000 !important;
+}
+
+event-details-label {
+  color:#000000 !important;
+}
+
+.event-time {
+  color:#000000 !important;
 }
 
 .cbrd {
