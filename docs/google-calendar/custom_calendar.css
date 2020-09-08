@@ -1,3 +1,32 @@
+.date-label {
+  background-color:#CCCCCC;
+  color:#000000;
+}
+
+.underflow-top {
+  color:#999999;
+}
+
+.underflow-top a {
+  color:#990000;
+}
+
+.underflow-top a:hover {
+  color:#FFCC00;
+}
+
+.underflow-bottom {
+  color:#999999;
+}
+
+.underflow-bottom a {
+  color:#990000;
+}
+
+.underflow-bottom a:hover {
+  color:#FFCC00;
+}
+
 .cbrd {
   background-color:#777777 !important;
   border:1px solid #000000; !important;
