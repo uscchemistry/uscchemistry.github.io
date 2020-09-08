@@ -168,10 +168,6 @@ table {
   background-color:#FFFFFF;
 }
 
-.dp-cur {
-  color:#FFFFFF;
-}
-
 .dp-today, .dp-today-selected {
   color:#990000;
 }
@@ -191,13 +187,23 @@ table {
   border-color:#990000;
 }
 
+.dp-cur {
+  color:#000000;
+}
+
 .dp-prev, .dp-next {
-  color:#FFFFFF;
+  color:#000000;
 }
 
 .dp-weekend-selected {
   color:#FFFFFF;
   background-color:#777777;
+}
+
+dp-dayh {
+  color:#000000;
+  background-color:#CCCCCC;
+  font-weight:bold;
 }
 
 /*month styling*/
