@@ -8,7 +8,7 @@ dl.cbrd dt {
 }
 
 .nav-table {
-  font-family: National;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 300;
   color:#000000;
   font-size:14px;
@@ -73,7 +73,7 @@ dl.cbrd dt {
   border: 0px;
   background-color:#CCCCCC;
   color:#000000;
-  font-family: National;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 300;
   font-size:18px;
   padding-top:5px;
@@ -85,7 +85,7 @@ dl.cbrd dt {
   border-bottom:0px;
   background-color:#FFCC00;
   color:#990000;
-  font-family: National;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size:18px;
 }
@@ -98,10 +98,6 @@ dl.cbrd dt {
   height:0px;
 }
 
-.st-grid {
-  display:none;
-}
-
 .wk-allday {
   display:none;
 }
@@ -111,7 +107,7 @@ dl.cbrd dt {
 }
 
 .calendar-container {
-  font-family: National;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 300;
   color:#000000;
   font-size:18px;
@@ -155,10 +151,6 @@ dl.cbrd dt {
 
 .tg-hourmarker {
   border-top: 2px solid #990000;
-}
-
-.table {
-  border-color:magenta;
 }
 
 /*dropdown styling*/
@@ -234,8 +226,8 @@ white-space:normal !important;
 
 /*names of the days at the top of the Calendar*/
 .mv-dayname {
-  font-family: National;
-  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
   color:#FFCC00;
   font-size:18px;
   height:28px;
@@ -273,7 +265,7 @@ white-space:normal !important;
 /*control the display of the dates of the standard, current day, and the next day, respectively*/
 .st-dtitle {
   background:white;
-  font-family: National;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 300;
   color:#000000;
   font-size:18px;
@@ -288,7 +280,7 @@ span.st-dtitle {
 }
 
 .st-dtitle-today {
-  font-family: National;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size:18px;
   color:#990000;
@@ -300,7 +292,7 @@ span.st-dtitle {
 }
 
 .st-dtitle-next {
-  font-family: National;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 300;
   font-size:18px;
   color:#000000;
@@ -309,7 +301,7 @@ span.st-dtitle {
 
 /*controls the display of the text for dates in a new month that are not present in the current month*/
 .st-dtitle-nonmonth {
-  font-family: National;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 300;
   color:#777777;
 }
@@ -322,7 +314,7 @@ span.st-dtitle {
 */
 
 .st-c-pos {
-  font-family: National;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 300;
   color:#000000;
 }
@@ -333,7 +325,7 @@ ca-evp1 {
 }
 
 te {
-  font-family: National;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 300;
   font-size:14px;
   color:#000000;
@@ -341,13 +333,13 @@ te {
 
 /*event text color*/
 span.te-s {
-  font-family: National;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 300;
   font-size:18px;
   color:#000000;
 }
 span.te-t {
-  font-family: National;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size:18px;
   color:#990000;
