@@ -1,3 +1,11 @@
+.mv-container {
+  border-bottom:2px solid #990000;
+}
+
+view-container {
+  border-bottom:2px solid #990000;
+}
+
 .agenda .date-label {
   background:#CCCCCC;
   color:#990000;
