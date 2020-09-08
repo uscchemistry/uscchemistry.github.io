@@ -28,7 +28,7 @@
   border-radius: 0px;
   color:#990000;
   background-color:#FFCC00;
-  border:1px solid #990000;
+  border:2px solid #990000;
   padding: 5px;
   margin-left:6px;
 }
@@ -55,13 +55,18 @@
 
 /*week styling*/
 .wk-today {
-  border: 1px solid #FFCC00;
+  border: 2px solid #990000;
+  border-bottom:0px;
   background-color:#FFCC00;
   color:#990000;
   font-family: National;
   font-weight: 500;
   color:#FFCC00;
   font-size:18px;
+}
+
+.st-s .st-c {
+  height:0px;
 }
 
 .calendar-container {
@@ -83,6 +88,10 @@
 .tg-times-pri, .tg-times-sec {
   background-color:#CCCCCC;
   color:#000000;
+}
+
+.wk-webcontent {
+  height:0px;
 }
 
 /*now image*/
