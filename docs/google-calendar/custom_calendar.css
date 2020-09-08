@@ -59,7 +59,6 @@
   background-color:#FFFFFF;
 }
 
-
 .wk-dayname {
   border: none;
   border-bottom:0px;
@@ -95,7 +94,7 @@ st-grid {
 }
 
 .wk-allday {
-  height:0px;
+  display:none;
 }
 
 .calendar-container {
