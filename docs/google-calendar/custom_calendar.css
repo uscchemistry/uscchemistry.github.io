@@ -61,7 +61,16 @@
   color:#990000;
   font-family: National;
   font-weight: 500;
-  color:#FFCC00;
+  font-size:18px;
+}
+
+.wk-dayname {
+  border: none;
+  border-bottom:0px;
+  background-color:#CCCCCC;
+  color:#000000;
+  font-family: National;
+  font-weight: 300;
   font-size:18px;
 }
 
@@ -79,7 +88,7 @@
 .wk-scrolltimedevents {
   border-top: 2px solid #990000;
   border-bottom: 2px solid #990000;
-  font-size:18px;
+  font-size:16px;
 }
 .tg-col {
   border-left:#777777;
@@ -106,6 +115,9 @@ tg-nowmarker {
 tg-hourmarker {
   border-top: 2px solid #990000;
 }
+
+table {
+  border-color:magenta;
 
 /*month styling*/
 	
