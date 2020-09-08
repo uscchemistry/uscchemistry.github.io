@@ -125,6 +125,30 @@ table {
   border-color:magenta;
 }
 
+/*dropdown styling*/
+
+.dp-popup {
+  background:#777777;
+}
+
+.dp-cur {
+  color:#FFFFFF;
+}
+
+.dp-today-selected {
+  background:#FFCC00;
+  border-color:#990000;
+}
+
+.dp-today, .dp-today-selected {
+  color:#990000;
+}
+
+.dp-weekday-selected {
+  color:#000000;
+  background:#CCCCCC;
+}
+
 /*month styling*/
 	
 .dp-cur, .chip dt, .te, .te-t, .te-rev-s, .rb-n, .rb-i, .agenda, .event-title{
