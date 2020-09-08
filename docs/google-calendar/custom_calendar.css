@@ -155,8 +155,12 @@ table {
    font-size:16px;
 }
 
-.date-picker-off:hover {
-   background-color:magenta;
+.date-picker-on {
+   font-size:16px;
+}
+
+.date-picker-on: {
+   background-color:#FFCC00;
 }
 
 .dp-popup {
