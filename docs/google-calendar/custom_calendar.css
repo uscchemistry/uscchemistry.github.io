@@ -141,17 +141,25 @@ table {
 
 /*dropdown styling*/
 
+date-picker-off {
+   font-size:16px;
+}
+
+date-picker-off:hover {
+   background-color:magenta;
+}
+
 .dp-popup {
   background:#777777;
 }
 
-.dp-cur {
+.dp-cell {
   color:#FFFFFF;
+  background-color:#777777;
 }
 
-.dp-today-selected {
-  background:#FFCC00;
-  border-color:#990000;
+.dp-cur {
+  color:#FFFFFF;
 }
 
 .dp-today, .dp-today-selected {
@@ -161,6 +169,15 @@ table {
 .dp-weekday-selected {
   color:#000000;
   background:#CCCCCC;
+}
+
+.dp-today-selected {
+  background:#FFCC00;
+  border-color:#990000;
+}
+
+.dp-prev, .dp-next {
+  color:#FFFFFF;
 }
 
 /*month styling*/
