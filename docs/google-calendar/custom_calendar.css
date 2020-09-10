@@ -1,3 +1,8 @@
+#calendarTitle {display:none;}
+#td-print-image-id {display:none;}
+#td-print-text-id {display:none;}
+#footer1 {display:none;}
+
 .mv-container {
   border-bottom:2px solid #990000;
 }
