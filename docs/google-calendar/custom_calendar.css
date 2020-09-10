@@ -3,7 +3,7 @@
 #td-print-text-id {display:none;}
 #footer1 {display:none;}
 
-.calendar-row {
+span.calendar-row {
    color: #000000 !important;
    font-size:14px;
 }
