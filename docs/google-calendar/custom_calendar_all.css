@@ -28,7 +28,6 @@ view-container {
   border-bottom:2px solid #990000;
 }
 
-/*
 .agenda .date-label {
   background:#CCCCCC;
   color:#990000;
@@ -46,15 +45,16 @@ view-container {
   color:#FFCC00;
 }
 
-.event-title {
-  color:#000000 !important;
-}
-
 event-details-label {
   color:#000000 !important;
 }
 
 .event-time {
+  color:#000000 !important;
+}
+
+/*
+.event-title {
   color:#000000 !important;
 }
 
