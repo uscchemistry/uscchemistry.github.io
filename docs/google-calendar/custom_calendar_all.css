@@ -1,3 +1,29 @@
+.details {
+   font-family: Arial, Helvetica, sans-serif !important;
+}
+
+/*
+.title {
+  color:#990000 !important;
+}
+*/
+
+.event-details-label {
+  color:#777777 !important;
+}
+
+.separator {
+  background-color:#777777 !important;
+}
+
+.links a {
+  color:#990000 !important;
+}
+
+.links a:hover {
+  color:#FFCC00 !important;
+}
+
 #weekViewAllDayBg1 td {
    background: #FFFFFF;
    border:0px;
