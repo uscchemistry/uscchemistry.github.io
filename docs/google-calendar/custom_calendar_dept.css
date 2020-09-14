@@ -1,3 +1,8 @@
+#weekViewAllDayBg1 td {
+   background: #FFFFFF;
+   border:0px;
+}
+
 .details {
    font-family: Arial, Helvetica, sans-serif !important;
 }
