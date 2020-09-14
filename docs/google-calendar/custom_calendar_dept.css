@@ -402,16 +402,34 @@ te {
 span.te-s {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 300;
-  font-size:14px;
+  font-size:12px;
   color:#000000;
 }
 
 span.te-t {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 500;
-  font-size:14px;
+  font-size:12px;
   color:#990000;
 }
+
+.rb-n {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size:12px;  
+}
+
+.rb-ni {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size:12px; 
+}
+
+.cloc {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size:12px;
+}	
 
 @font-face { 
 	font-family: 'National'; 
