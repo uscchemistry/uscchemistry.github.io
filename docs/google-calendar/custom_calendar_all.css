@@ -1,0 +1,458 @@
+t2-embed {display:none}
+t2-embed {display:none}
+
+#calendarTitle {display:none;}
+#td-print-image-id {display:none;}
+#td-print-text-id {display:none;}
+#footer1 {display:none;}
+
+span.calendar-row {
+   color: #000000 !important;
+   font-size:14px;
+}
+
+.mv-container {
+  border-bottom:2px solid #990000;
+}
+
+view-container {
+  border-bottom:2px solid #990000;
+}
+
+.agenda .date-label {
+  background:#CCCCCC;
+  color:#990000;
+}
+
+.agenda .underflow-bot, .agenda .underflow-top {
+  color:#777777;
+}
+
+.agenda-more {
+  color:#990000;
+}
+
+.agenda-more:hover {
+  color:#FFCC00;
+}
+
+.event-title {
+  color:#000000 !important;
+}
+
+event-details-label {
+  color:#000000 !important;
+}
+
+.event-time {
+  color:#000000 !important;
+}
+
+.cbrd {
+  background-color:#777777 !important;
+  border:1px solid #000000; !important;
+}
+
+dl.cbrd dt {
+  background-color:#CCCCCC !important;
+}
+
+span.chip-caption {
+  color:#000000;
+}
+
+.nav-table {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  color:#000000;
+  font-size:14px;
+}
+
+.navBack {
+  background-image: url(https://uscchemistry.github.io/docs/google-calendar/left-arrow.jpg);
+  height:27px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+}
+
+.navForward {
+  background-image: url(https://uscchemistry.github.io/docs/google-calendar/right-arrow.jpg);
+  height:27px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+}
+
+.navbutton {
+  height:27px;
+}
+
+/*today button*/
+.today-button {
+  border-radius: 0px;
+  color:#990000;
+  background-color:#FFCC00;
+  border:2px solid #990000;
+  padding: 5px;
+  margin-left:6px;
+  font-size:16px;
+}
+
+#calendarTabs1 {
+  padding-right:6px;
+}
+
+/*week/month/agenda button*/
+.ui-rtsr-unselected {
+  background-color:#CCCCCC;
+  color:#000000;
+}
+
+.ui-rtsr-selected {
+  background-color:#CCCCCC;
+  color:#000000;
+  border-radius: 0px;
+}
+
+.ui-rtsr-name {
+  padding:5px;
+}
+
+/*week styling*/
+
+.wk-weektop {
+  background-color:#FFFFFF;
+}
+
+.wk-dayname {
+  border: 0px;
+  background-color:#CCCCCC;
+  color:#000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size:18px;
+  padding-top:5px;
+  padding-bottom:5px;
+}
+
+.wk-today {
+  border: 2px solid #990000;
+  border-bottom:0px;
+  background-color:#FFCC00;
+  color:#990000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size:18px;
+}
+
+.st-c {
+  height:0px;
+}
+
+.st-s {
+  height:0px;
+}
+
+.wk-allday {
+  display:none;
+}
+
+.st-bg-all {
+  height:0px;
+}
+
+.calendar-container {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  color:#000000;
+  font-size:18px;
+  border-bottom:2px solid #990000;
+}
+
+.wk-scrolltimedevents {
+  border-top: 2px solid #990000;
+  border-bottom: 2px solid #990000;
+  font-size:12px;
+}
+
+.tg-col {
+  border-left:1px solid #777777;
+}
+
+.tg-times-pri, .tg-times-sec {
+  background-color:#CCCCCC;
+  color:#000000;
+  width:80px;
+}
+
+.tg-time-pri {
+  padding-left:5px;
+  padding-right:5px;
+}
+
+.wk-webcontent {
+  height:0px;
+}
+
+.wk-webcontent-td {
+  height:0px;
+}
+
+/*now image*/
+.tg-nowptr {
+  background-image: url(//calendar.google.com/googlecalendar/images/combined_v22.png);
+}
+
+.tg-nowmarker {
+  border-top: 2px solid #990000;
+}
+
+.tg-hourmarker {
+  border-top: 2px solid #990000;
+}
+
+/*dropdown styling*/
+
+.date-picker-off {
+   font-size:16px;
+}
+
+.date-picker-on {
+   font-size:16px;
+}
+
+.date-picker-arrow-on {
+   background-color:#FFCC00;
+}
+
+.dp-popup {
+  background:#FFFFFF;
+}
+
+.dp-cell {
+  color:#000000;
+  background-color:#FFFFFF;
+}
+
+.dp-today, .dp-today-selected {
+  color:#990000;
+}
+
+.dp-weekday-selected {
+  color:#000000;
+  background:#CCCCCC;
+}
+
+.dp-today-selected {
+  background:#FFCC00;
+  border-color:#990000;
+}
+
+.dp-today-selected:hover {
+  background:#FFCC00;
+  border-color:#990000;
+}
+
+.dp-cur {
+  color:#000000;
+}
+
+.dp-prev, .dp-next {
+  color:#000000;
+}
+
+.dp-weekend-selected {
+  color:#FFFFFF;
+  background-color:#777777;
+}
+
+.dp-dayh {
+  color:#990000;
+  background-color:#FFFFFF;
+  font-weight:bold;
+}
+
+/*month styling*/
+	
+.dp-cur, .chip dt, .te, .te-t, .te-rev-s, .rb-n, .rb-i, .agenda, .event-title{
+white-space:normal !important;
+}
+/*overall border/background color*/
+.view-cap, .view-container-border{
+  background-color:#FFFFFF;
+}
+
+/*names of the days at the top of the Calendar*/
+.mv-dayname {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  color:#FFCC00;
+  font-size:18px;
+  height:28px;
+  border:0px;
+}
+	
+/*controls the cell that each name of each day sits*/
+.mv-daynames-table {
+  background-color:#990000;
+  height:28px;
+}
+
+.mv-event-container {
+  top:34px;
+  border:0px;
+}
+
+/*controls the background of each of the cells*/
+.st-bg { 
+  background:#FFFFFF;
+  border-left:none;
+}
+
+.st-bg-today {
+  background:#FFCC00;
+  border-bottom:2px solid #990000; 
+  border-left:2px solid #990000; 
+  border-right:2px solid #990000; 
+  border-top:0px;
+}
+
+.st-bg-td-last {
+  background:#FFCC00;
+  border-bottom:2px solid #990000; 
+  border-left:2px solid #990000; 
+  border-right:2px solid #990000; 
+  border-top:0px;
+}
+
+.st-bg-next {
+  background:#CCCCCC;
+}
+
+/*control the display of the dates of the standard, current day, and the next day, respectively*/
+.st-dtitle {
+  background:white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  color:#000000;
+  font-size:16px;
+  border:none;
+  padding-top:5px;
+  padding-right:5px;
+  padding-left:5px;
+}
+
+span.st-dtitle {
+  padding-top:10px;
+  padding-right:10px;
+}
+
+.st-dtitle-today {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size:18px;
+  color:#990000;
+  background:#FFCC00;
+  border-bottom:0px;
+  border-top:2px solid #990000;
+  border-left:2px solid #990000; 
+  border-right:2px solid #990000; 
+}
+
+.st-dtitle-next {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size:18px;
+  color:#000000;
+  background:#CCCCCC;
+}
+
+/*controls the display of the text for dates in a new month that are not present in the current month*/
+.st-dtitle-nonmonth {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  color:#777777;
+}
+
+/*
+/*applied to the cell below todays; when default this has a border at the top which matches the border surrounding the current day*/
+.st-dtitle-down {
+  border-top:2px solid #990000; 
+}
+*/
+
+.st-c-pos {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  color:#000000;
+}
+
+/*event text color*/
+ca-evp1 {
+  color:#000000;
+}
+
+te {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size:14px;
+  color:#000000;
+}
+
+/*event text color*/
+span.te-s {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size:14px;
+  color:#000000;
+}
+
+span.te-t {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size:14px;
+  color:#990000;
+}
+
+@font-face { 
+	font-family: 'National'; 
+	src: url('https://www.usc.edu/assets/fonts/NationalWeb-Light.eot'); 
+	src: local(':)'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Light.woff') format('woff'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Light.ttf') format('truetype'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Light.svg') format('svg'); 
+	font-weight: 200; 
+	font-style: normal; 
+}
+
+@font-face { 
+	font-family: 'National'; 
+	src: url('https://www.usc.edu/assets/fonts/NationalWeb-Regular.eot'); 
+	src: local(':)'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Regular.woff') format('woff'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Regular.ttf') format('truetype'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Regular.svg') format('svg'); 
+	font-weight: 500; 
+	font-style: normal; 
+}
+
+@font-face { 
+	font-family: 'National'; 
+	src: url('https://www.usc.edu/assets/fonts/NationalWeb-Semibold.eot'); 
+	src: local(':)'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Semibold.woff') format('woff'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Semibold.ttf') format('truetype'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Semibold.svg') format('svg'); 
+	font-weight: 700; 
+	font-style: normal; 
+}
+
+@font-face { 
+	font-family: 'National'; 
+	src: url('https://www.usc.edu/assets/fonts/NationalWeb-Bold.eot'); 
+	src: local(':)'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Bold.woff') format('woff'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Bold.ttf') format('truetype'), 
+	url('https://www.usc.edu/assets/fonts/NationalWeb-Bold.svg') format('svg'); 
+	font-weight: 800; 
+	font-style: normal; 
+}
