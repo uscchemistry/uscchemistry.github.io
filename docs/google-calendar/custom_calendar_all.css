@@ -1,3 +1,7 @@
+.bottomcontainerBorder1 {
+  border-top:2px solid #990000;
+}
+
 t2-embed {display:none}
 t2-embed {display:none}
 
@@ -150,10 +154,14 @@ span.chip-caption {
 
 .st-c {
 /*  height:0px;*/
+  background-color:#FFFFFF;
+  border:0px;
 }
 
 .st-s {
 /*  height:0px;*/
+  background-color:#FFFFFF;
+  border:0px;
 }
 
 .wk-allday {
