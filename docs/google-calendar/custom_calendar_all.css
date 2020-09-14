@@ -141,13 +141,13 @@ span.chip-caption {
   font-size:18px;
 }
 
-.st-c {
+.wk-today .st-c {
 /*  height:0px;*/
   background-color:#FFFFFF;
   border:0px;
 }
 
-.st-s {
+.wk-today .st-s {
 /*  height:0px;*/
   background-color:#FFFFFF;
   border:0px;
@@ -159,7 +159,7 @@ span.chip-caption {
   border:0px;
 }
 
-.st-bg-all {
+.wk-today .st-bg-all {
 /*  height:0px;*/
   background-color:#FFFFFF;
   border:0px;
