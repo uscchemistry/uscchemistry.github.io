@@ -91,8 +91,8 @@ event-details-label {
 
 .cbrd {
   background-color:#777777 !important;
-  border:1px solid #000000; !important;
-  border-color: #000000; !important;
+  border:1px solid #000000 !important;
+  border-color: #000000 !important;
 }
 
 dl.cbrd dt {
