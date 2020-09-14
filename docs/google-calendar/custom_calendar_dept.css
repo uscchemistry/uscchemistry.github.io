@@ -3,6 +3,10 @@
    border:0px;
 }
 
+#tgTable {
+  border-bottom:2px solid #990000;
+}
+
 .details {
    font-family: Arial, Helvetica, sans-serif !important;
 }
