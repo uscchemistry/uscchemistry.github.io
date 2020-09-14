@@ -1,3 +1,8 @@
+.calendar-nav {
+   padding-right:5px;
+   padding-left:5px;
+}
+
 .details {
    font-family: Arial, Helvetica, sans-serif !important;
 }
