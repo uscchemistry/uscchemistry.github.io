@@ -19,6 +19,7 @@ view-container {
   border-bottom:2px solid #990000;
 }
 
+/*
 .agenda .date-label {
   background:#CCCCCC;
   color:#990000;
@@ -47,6 +48,7 @@ event-details-label {
 .event-time {
   color:#000000 !important;
 }
+*/
 
 .cbrd {
   background-color:#777777 !important;
@@ -60,6 +62,7 @@ dl.cbrd dt {
 span.chip-caption {
   color:#000000;
 }
+
 
 .nav-table {
   font-family: Arial, Helvetica, sans-serif;
@@ -85,6 +88,7 @@ span.chip-caption {
 .navbutton {
   height:27px;
 }
+*/
 
 /*today button*/
 .today-button {
