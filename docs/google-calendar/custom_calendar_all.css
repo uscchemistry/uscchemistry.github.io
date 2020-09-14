@@ -395,7 +395,6 @@ te {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 300;
   font-size:14px;
-  color:#000000;
 }
 
 /*event text color*/
@@ -403,14 +402,12 @@ span.te-s {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 300;
   font-size:14px;
-  color:#000000;
 }
 
 span.te-t {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size:14px;
-  color:#990000;
 }
 
 @font-face { 
