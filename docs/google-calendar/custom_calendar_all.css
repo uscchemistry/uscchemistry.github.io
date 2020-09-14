@@ -1,3 +1,8 @@
+#weekViewAllDayBg1 td {
+   background: #000000;
+   border:0px;
+}
+
 .bottomcontainerBorder1 {
   border-top:2px solid #990000;
 }
