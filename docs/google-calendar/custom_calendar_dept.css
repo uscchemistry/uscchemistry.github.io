@@ -1,6 +1,8 @@
 #weekViewAllDayBg1 td {
-   background: #FFFFFF;
-   border:0px;
+  background: #FFFFFF;
+  border-left:0px;
+  border-right:0px;
+  border-bottom:0px;
 }
 
 #tgTable {
